@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data analyst from India, decoding data into decisions!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiashok0981&label=Profile%20views&color=0e75b6&style=flat" alt="saiashok0981" /> </p>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="pic.gif"  />
 
 - 🔭 I’m currently working on [data analytics, SQL, and BI tools to solve real-world problems](https://github.com/saiashok0981/portfolioproject)
 
