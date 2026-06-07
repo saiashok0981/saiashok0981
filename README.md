@@ -74,17 +74,6 @@ Medallion Architecture pipeline (Bronze → Silver → Gold) with ACID-compliant
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Saiashok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiashok0981&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiashok0981&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 **B.Tech — Computer Science and Engineering**  
