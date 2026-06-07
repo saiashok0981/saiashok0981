@@ -1,32 +1,99 @@
-<h1 align="center">Hi 👋, I'm Saiashok Karadi</h1>
-<h3 align="center">Aspiring Data analyst from India, decoding data into decisions!</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiashok0981&label=Profile%20views&color=0e75b6&style=flat" alt="saiashok0981" /> </p>
-<img align="right" height="150" src="pic.gif"  />
+# Saiashok Karadi
 
-- 🔭 I’m currently working on [data analytics, SQL, and BI tools to solve real-world problems](https://github.com/saiashok0981/portfolioproject)
+**Backend · Full-Stack · AI Engineering · CS Final Year @ BIT Bangalore**
 
-- 🌱 I’m currently learning **AWS,java,c++,python**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saiashok--Karadi-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/Saiashok-Karadi)
+[![GitHub](https://img.shields.io/badge/GitHub-saiashok0981-181717?style=flat&logo=github)](https://github.com/saiashok0981)
+[![Email](https://img.shields.io/badge/Email-saiashok103@gmail.com-EA4335?style=flat&logo=gmail)](mailto:saiashok103@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=flat&logo=googledrive)](https://drive.google.com/drive/folders/1rcAOK9vq2mAchxh1AuL2XizDAsTGcOS0)
 
-- 👯 I’m looking to collaborate on [data analytics, SQL, and BI tools to solve real-world problems, with a bit of Python for data cleaning.](https://github.com/saiashok0981/portfolioproject)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/saiashok0981/portfolioproject](https://github.com/saiashok0981/portfolioproject)
+---
 
-- 💬 Ask me about **SQL query optimization, dashboard design, and BI tools!**
+## 🟢 Open to Work — Actively Looking for Opportunities
 
-- 📫 How to reach me **saiashok103@gmail.com**
+> Final-year CS student graduating **September 2026**, seeking entry-level roles in **Backend Engineering, Full-Stack Development, or AI/Data Engineering**.  
+> 📍 Preferred: **Bengaluru · Hyderabad · Remote (India)**  
+> 📬 **saiashok103@gmail.com** · +91 6301955884
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1rcAOK9vq2mAchxh1AuL2XizDAsTGcOS0](https://drive.google.com/drive/folders/1rcAOK9vq2mAchxh1AuL2XizDAsTGcOS0)
+---
 
-- ⚡ Fun fact **I love uncovering hidden patterns in data—kind of like solving a mystery.**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sai-ashok-60b394251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-ashok-60b394251/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sai_ashok00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sai_ashok00/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/saiashok103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saiashok103/" height="30" width="40" /></a>
-</p>
+I build systems end-to-end — from kernel-level firewalls running on Alpine Linux to React/Next.js frontends and FastAPI microservices. My internship at **DRDO CABS** had me deploying a production Wazuh SIEM stack, designing iptables/ipset firewall gateways, and shipping a D3.js management dashboard used by security teams.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm drawn to backend-heavy, data-intensive problems and am actively exploring **AI/agentic engineering** as my next frontier.
 
+---
+
+## 🛠 Tech Stack
+
+| Domain | Tools |
+|---|---|
+| **Languages** | Python, Java, JavaScript, TypeScript, SQL |
+| **Frontend** | React, Angular, Next.js, Redux, D3.js, Tailwind CSS, HTML5, CSS |
+| **Backend & APIs** | FastAPI, Django, Node.js, REST APIs, Microservices, JWT, OAuth |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Redis, BigQuery, Delta Tables |
+| **DevOps & Cloud** | Docker, Git, CI/CD, Kafka, Azure, Google Cloud, Linux, Alpine Linux, iptables, ipset |
+| **Security** | Wazuh SIEM, OpenSearch, MaxMind GeoLite2, GeoIP filtering |
+| **Data & ML** | Apache Spark, PySpark, Delta Lake, Scikit-learn, Power BI, Tableau |
+
+---
+
+## 💼 Experience
+
+### Cybersecurity Intern — DRDO CABS *(Feb 2026 – May 2026)*
+*Centre for Airborne Systems, Bengaluru*
+
+- Deployed a **3-container Wazuh SIEM stack** (Wazuh Manager, OpenSearch, Dashboard) via Docker, enabling real-time threat categorization and improving security event visibility by **60%**
+- Implemented a **virtualized firewall gateway** on Alpine Linux using iptables + ipset with GeoIP-based country blocking (MaxMind GeoLite2), cutting firewall rule count by **~85%** through kernel-level hash sets
+- Built a **full-stack management dashboard** (FastAPI + D3.js) for real-time firewall rule management and SIEM monitoring — reducing manual admin effort by **90%** and rule deployment time by **70%**
+
+### Frontend Intern — Unrise *(Oct 2025 – Dec 2025)*
+*Bangalore, Karnataka*
+
+- Architected client-facing UI using **React + JavaScript**, improving component reusability and application stability
+- Built responsive, state-driven **carousel components** with React hooks — boosted user engagement by **20%**
+- Delivered end-to-end frontend features from client requirements, accelerating feature completion by **25%**
+
+---
+
+## 🚀 Projects
+
+### Nutricart Recipe Maker · *Expo · Node.js · Gemini API · MongoDB*
+Mobile app with AI-generated recipes. Optimized Gemini API calls for **30% faster generation**; MongoDB backend with **35% improved query speed** for nutritional data storage.
+
+### Heart Disease Prediction · *Python · Scikit-learn*
+Logistic Regression model achieving **92% accuracy** on clinical data. Full preprocessing pipeline: feature engineering, normalization, missing value imputation, and feature selection.
+
+### End-to-End Databricks Data Pipeline · *Databricks · PySpark · Delta Lake · SQL*
+Medallion Architecture pipeline (Bronze → Silver → Gold) with ACID-compliant Delta Lake tables, schema enforcement, time travel, and Spark SQL optimizations via partitioning and caching.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Saiashok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiashok0981&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiashok0981&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science and Engineering**  
+Bangalore Institute of Technology · *2022 – Sep 2026*
+
+---
+
+<div align="center">
+
+*Hiring or know someone who is? Let's connect — [saiashok103@gmail.com](mailto:saiashok103@gmail.com)*
+
+</div>
