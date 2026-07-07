@@ -166,20 +166,16 @@ React development and reusable UI components.
 
 ---
 
-
-# GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saiashok0981&show_icons=true&theme=tokyonight"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiashok0981&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saiashok0981&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiashok0981&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=saiashok0981&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=saiashok0981&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
-
----
-
 
 
 # Contribution Graph
